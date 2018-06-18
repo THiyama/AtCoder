@@ -25,7 +25,7 @@
 #include <iostream>
 #include <cmath>
 
-int sort_max(int *, int n);
+void sort_max(int *, int n);
 
 int main() {
 	int sum = 0;
@@ -48,7 +48,7 @@ int main() {
 	return 0;
 }
 
-int sort_max(int *array, int n) {
+void sort_max(int *array, int n) {
 	int tmp = 1;
 	for (int j = 0; j <= n - 1 - 1; j++) {
 		for (int i = 0; i <= n - 1 - 1; i++) {
