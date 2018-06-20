@@ -41,7 +41,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/ABC085C_Otoshidama.cpp|src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -87,7 +87,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/ABC085C_Otoshidama.cpp|src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
