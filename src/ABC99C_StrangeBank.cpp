@@ -8,6 +8,8 @@
 #include <iostream>
 #include <cmath>
 
+//DP–@‚ğ—p‚¢‚Ä‰ğ‚¢‚Ä‚İ‚éB
+
 int main() {
 	int n;
 	int cnt = 1;
@@ -17,13 +19,6 @@ int main() {
 	while (1) {
 
 	}
-
-
-
-
-	std::cout << counter << std::endl;
-	counter += n - (num9 + num6);
-	std::cout << counter << std::endl;
 
 	return 0;
 }
