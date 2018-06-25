@@ -14,14 +14,14 @@
 
 int main() {
 	int n;
-	for (int i = 0; i < n; i++) {
-		std::cin >> n;
-	}
-	std::vector<int> dp;
+	std::cin >> n;
+
+	int dp[110000];
 	dp[0] = 0;
 	for (int i = 1; i < 110000; i++) {
 		dp[i] = n;
 	}
+
 	for (int i = 0; i < n; i++) {
 		for (int pow = 1; i + pow <= n; pow *= 6) {
 			dp[i + pow] = std::min(dp[i] + 1, dp[i + pow]);
@@ -35,4 +35,3 @@ int main() {
 
 	return 0;
 }
-
