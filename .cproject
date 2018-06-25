@@ -41,7 +41,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/ABC_C_Minimization.cpp|src/ABC101_B_DigitSums.cpp|src/ABC101_A_EatingSymbolsEasy.cpp|src/ABC99_C_StrangeBank.cpp|src/ABC99_B_StoneMonument.cpp|src/ABC99_A_ABD.cpp|src/ABC100_C_3or2.cpp|src/ABC101_B_Ringos_FavoriteNumbers.cpp|src/ABC101_A_HappyBirthday.cpp|src/ABC086C_Traveling.cpp|src/ABC049C_Daydream.cpp|src/ABC085C_Otoshidama.cpp|src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/ABC99B_StoneMonument.cpp|src/ABC99A_ABD.cpp|src/ABC101C_Minimization.cpp|src/ABC101B_DigitSums.cpp|src/ABC101A_EatingSymbolsEasy.cpp|src/ABC100C_3or2.cpp|src/ABC100B_Ringos_FavoriteNumbers.cpp|src/ABC100A_HappyBirthday.cpp|src/ABC_C_Minimization.cpp|src/ABC101_B_DigitSums.cpp|src/ABC101_A_EatingSymbolsEasy.cpp|src/ABC99_C_StrangeBank.cpp|src/ABC99_B_StoneMonument.cpp|src/ABC99_A_ABD.cpp|src/ABC100_C_3or2.cpp|src/ABC101_B_Ringos_FavoriteNumbers.cpp|src/ABC101_A_HappyBirthday.cpp|src/ABC086C_Traveling.cpp|src/ABC049C_Daydream.cpp|src/ABC085C_Otoshidama.cpp|src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
@@ -87,7 +87,7 @@
 						</toolChain>
 					</folderInfo>
 					<sourceEntries>
-						<entry excluding="src/ABC_C_Minimization.cpp|src/ABC101_B_DigitSums.cpp|src/ABC101_A_EatingSymbolsEasy.cpp|src/ABC99_C_StrangeBank.cpp|src/ABC99_B_StoneMonument.cpp|src/ABC99_A_ABD.cpp|src/ABC100_C_3or2.cpp|src/ABC101_B_Ringos_FavoriteNumbers.cpp|src/ABC101_A_HappyBirthday.cpp|src/ABC086C_Traveling.cpp|src/ABC049C_Daydream.cpp|src/ABC085C_Otoshidama.cpp|src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
+						<entry excluding="src/ABC99B_StoneMonument.cpp|src/ABC99A_ABD.cpp|src/ABC101C_Minimization.cpp|src/ABC101B_DigitSums.cpp|src/ABC101A_EatingSymbolsEasy.cpp|src/ABC100C_3or2.cpp|src/ABC100B_Ringos_FavoriteNumbers.cpp|src/ABC100A_HappyBirthday.cpp|src/ABC_C_Minimization.cpp|src/ABC101_B_DigitSums.cpp|src/ABC101_A_EatingSymbolsEasy.cpp|src/ABC99_C_StrangeBank.cpp|src/ABC99_B_StoneMonument.cpp|src/ABC99_A_ABD.cpp|src/ABC100_C_3or2.cpp|src/ABC101_B_Ringos_FavoriteNumbers.cpp|src/ABC101_A_HappyBirthday.cpp|src/ABC086C_Traveling.cpp|src/ABC049C_Daydream.cpp|src/ABC085C_Otoshidama.cpp|src/ABC085B_KagamiMochi.cpp|src/ABC088B_CardGameforTwo.cpp|src/ABC083B_Some_Sums.cpp|src/ABC087B_Coins.cpp|src/ABC081B_Shift_only.cpp|src/ABC081A_Placing Marbles.cpp|src/ABC086A_Product.cpp|src/welcome.cpp" flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name=""/>
 					</sourceEntries>
 				</configuration>
 			</storageModule>
